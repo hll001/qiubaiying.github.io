@@ -7,7 +7,7 @@ description: "If you're tired,just sleep."
 keyword: "HLL001, HLL001 Blog, 玲珑的博客, HUANGLINGLONG, 黄玲珑, 文本处理, 机器学习, 安卓"
 url: "http://hll001.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/hll001/hll001.github.io.git" # you code repository
+github_repo: "https://github.com/hll001/hll001.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
